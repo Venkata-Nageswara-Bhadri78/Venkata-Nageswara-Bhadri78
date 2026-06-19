@@ -18,6 +18,7 @@ Backend-Focused Software Engineer passionate about building scalable systems, RE
 | Category | Technologies |
 |---|---|
 | **Programming Languages** | Java, JavaScript |
+| **Backend Development** | SpringBoot, Hibernat, MySQL, JPA, J2EE, Maven, REST APIs, Authentication (JWT), RBAC |
 | **Backend Development** | Node.js, Express.js, REST APIs, Authentication (JWT), RBAC |
 | **Database Management** | MySQL |
 | **Frontend Development** | React.js, Tailwind CSS, HTML, CSS |
