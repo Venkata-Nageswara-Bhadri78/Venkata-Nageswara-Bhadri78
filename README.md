@@ -33,7 +33,7 @@ Backend-Focused Software Engineer passionate about building scalable systems, RE
 ---
 ## 📌 Featured Projects
 
-### 🚚 Logistics Order Management System [Repo Link](https://github.com/Venkata-Nageswara-Bhadri78/logistics-engine-api): 
+### 🚚 Logistics Order Management System [Repo Link](https://github.com/Venkata-Nageswara-Bhadri78/springboot-logistics-engine-api): 
 Scalable backend system with RBAC, REST APIs, pagination, filtering, validation, and centralized error handling.
 
 ### 🤖 AI Product Advisor [Repo Link](https://github.com/Venkata-Nageswara-Bhadri78/AI-Product-Advisor)
@@ -44,6 +44,7 @@ Real-time movie exploration platform integrated with TMDB APIs and backend proxy
 ---
 
 ## 🌱 Currently Learning
+- SpringBoot
 - System Design
 - Docker
 - CI/CD
